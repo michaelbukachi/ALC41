@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC41</string>
+    <string name="alc_phase_1">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="michael_bukachi">Michael Bukachi</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="phone_no_val">0717529167</string>
+    <string name="email_val">michaelbukachi@gmail.com</string>
+    <string name="country_val">Kenya</string>
+    <string name="track_val">Android</string>
+    <string name="slack_username_val">\@michaelbukachi</string>
+</resources>
