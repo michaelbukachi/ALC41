@@ -6,9 +6,14 @@
     <string name="my_profile">My Profile</string>
     <string name="michael_bukachi">Michael Bukachi</string>
     <string name="profile_picture">Profile Picture</string>
-    <string name="phone_no_val">0717529167</string>
+    <string name="phone_no_val">254717529167</string>
     <string name="email_val">michaelbukachi@gmail.com</string>
     <string name="country_val">Kenya</string>
     <string name="track_val">Android</string>
     <string name="slack_username_val">\@michaelbukachi</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
 </resources>
