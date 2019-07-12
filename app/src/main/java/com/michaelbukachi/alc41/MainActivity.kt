@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        setTitle(R.string.alc_phase_1)
+        setSupportActionBar(toolbar)
+        setTitle("")
         about_button.setOnClickListener {
             startActivity(Intent(this@MainActivity, AboutActivity::class.java))
         }
